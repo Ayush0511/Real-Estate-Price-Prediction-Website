@@ -33,7 +33,7 @@
 }
 
 .switch-field input:checked + label {
-	background-color: #a5dc86;
+	background-color: #86d5dc;
 	box-shadow: none;
 }
 
@@ -88,7 +88,7 @@ h2 {
 }
 
 .submit{
-  background: #a5dc86;
+  background: #86d8dc;
   width: 76%;
   border: 0;
   margin: 25px 0 10px;
@@ -100,7 +100,7 @@ h2 {
 }
 
 .result{
-		background: #dcd686;
+		background: #78e070;
 		width: 76%;
 		border: 0;
 		margin: 25px 0 10px;
